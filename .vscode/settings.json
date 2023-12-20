@@ -1,0 +1,7 @@
+{
+    "prettier.enableDebugLogs": true,
+    "prettier-more.arrayBracketSpacing": false,
+    "prettier-more.breakBeforeElse": false,
+    "prettier-more.breakLongMethodChains": true,
+    "prettier-more.endOfLine": "auto"
+}
